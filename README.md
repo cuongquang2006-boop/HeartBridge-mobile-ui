@@ -25,44 +25,27 @@ Tôi xây dựng **HeartBridge** với mong muốn:
 
 ### Home
 
-* Hiển thị tổng quan gia đình
-* Hoạt động gần đây
-* Gợi ý hoạt động gắn kết
-* Truy cập nhanh các tính năng
+* Hiển thị tổng quan gia đình, hoạt động gần đây, gợi ý hoạt động gắn kết và truy cập nhanh các tính năng.
 
 ### Mood Tracking
 
-* Chia sẻ tâm trạng hằng ngày
-* Theo dõi cảm xúc theo thời gian
-* AI phân tích và đưa ra lời khuyên
+* Chia sẻ tâm trạng hằng ngày, theo dõi cảm xúc theo thời gian và nhận phân tích, lời khuyên từ AI.
 
 ### Family Calendar
 
-* Sinh nhật
-* Sự kiện quan trọng
-* Hoạt động chung
-* Nhắc nhở
+* Quản lý sinh nhật, sự kiện quan trọng, hoạt động chung và nhắc nhở dành cho gia đình.
 
 ### Memories
 
-* Lưu giữ hình ảnh
-* Video kỷ niệm
-* Timeline ký ức
-* Phân loại theo chủ đề
+* Lưu giữ hình ảnh, video kỷ niệm, xây dựng timeline ký ức và phân loại theo từng chủ đề.
 
 ### Year Recap
 
-* Tổng hợp những khoảnh khắc nổi bật trong năm
-* Hiệu ứng Story giống Instagram
-* Chuyển cảnh mượt mà
-* Mang lại trải nghiệm cảm xúc và gần gũi
+* Tổng hợp những khoảnh khắc nổi bật trong năm với hiệu ứng Story, chuyển cảnh mượt mà và trải nghiệm cảm xúc gần gũi.
 
 ### AI Care
 
-* AI trò chuyện
-* Gợi ý hoạt động gia đình
-* Hỗ trợ cảm xúc
-* Đưa ra lời khuyên phù hợp
+* AI trò chuyện, gợi ý hoạt động gia đình, hỗ trợ cảm xúc và đưa ra những lời khuyên phù hợp.
 
 
 ## Thiết kế
@@ -83,7 +66,7 @@ HeartBridge được thiết kế theo phong cách:
 
 ---
 
-## Mục tiêu dự án
+## Mục tiêu dự án🎯 
 
 HeartBridge không chỉ là một ứng dụng lưu giữ kỷ niệm.
 
