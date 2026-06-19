@@ -96,19 +96,29 @@ Tôi mong muốn tạo ra một sản phẩm giúp:
 
 ---
 
-## Demo
+<h3 align="center">Login Screen</h3>
 
-### Login Screen
+<p align="center">
+  <img src="./screenshots/login.png" width="220" />
+  <img src="./screenshots/login_number.png" width="220" />
+  <img src="./screenshots/login_email.png" width="220" />
+</p>
 
-![Login](./screenshots/login.png)
+<h3 align="center">Home Screen</h3>
 
-### Home Screen
+<p align="center">
+  <img src="./screenshots/home.png" width="220" />
+  <img src="./screenshots/profile.png" width="220" />
+  <img src="./screenshots/chatbot.png" width="220" />
+</p>
 
-![Home](./screenshots/home.png)
+<h3 align="center">Year Recap</h3>
 
-### Year Recap
-
-![Year Recap](./screenshots/year-recap.png)
+<p align="center">
+  <img src="./screenshots/reels_2.png" width="220" />
+  <img src="./screenshots/reels_3.png" width="220" />
+  <img src="./screenshots/reels_6.png" width="220" />
+</p>
 
 ---
 
